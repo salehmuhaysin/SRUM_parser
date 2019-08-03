@@ -24,7 +24,7 @@ files:
 
 Data Type         | Output File
 ----------------- | ----------------
-ApplicationResourceUsage | <output_file>-ApplicationResourceUsage.csv
+ApplicationResourceUsage | __<output_file>__-ApplicationResourceUsage.csv
 NetworkConnectivityUsageMonitor | <output_file>-NetworkConnectivityUsageMonitor.csv
 NetworkDataUsageMonitor | <output_file>-NetworkDataUsageMonitor.csv
 
