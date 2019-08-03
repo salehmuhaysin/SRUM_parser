@@ -7,13 +7,13 @@ SRUM used by Windows Operating System to monitor utilization usage of the resour
 
 #### Arguments:
 
-required arguments:
-  -i IN_FILE      Input path for SRUDB.dat file
-  -o OUT_FILE     Output path (srum.csv) will output folder as srum-[srum_type].csv
+required arguments:  
+  -i IN_FILE      Input path for SRUDB.dat file  
+  -o OUT_FILE     Output path (srum.csv) will output folder as srum-[srum_type].csv  
   
-optional arguments:
-  -h, --help      show this help message and exit
-  -r RESULT_TYPE  Result files (json, csv), by default output in csv file
+optional arguments:  
+  -h, --help      show this help message and exit  
+  -r RESULT_TYPE  Result files (json, csv), by default output in csv file  
 
 
 
