@@ -2,6 +2,8 @@
 Parse Windows System Resource Usage Monitor (SRUM)  
 SRUM used by Windows Operating System to monitor utilization usage of the resources (Network connections, Application running, energy usage, etc.)
 
+to read more about SRUM, [click here](https://github.com/libyal/esedb-kb/blob/master/documentation/System%20Resource%20Usage%20Monitor%20(SRUM).asciidoc)
+
 ### Usage:
 ![alt text](https://github.com/salehmuhaysin/SRUM_parser/blob/master/Selection_005.png?raw=true)
 
@@ -25,11 +27,13 @@ Output files:
 
 Data Type         | Output File
 ----------------- | ----------------
-ApplicationResourceUsage | _ _<output_file>_ _-ApplicationResourceUsage.csv
-NetworkConnectivityUsageMonitor | _ _<output_file>_ _-NetworkConnectivityUsageMonitor.csv
-NetworkDataUsageMonitor | _ _<output_file>_ _-NetworkDataUsageMonitor.csv
+ApplicationResourceUsage | _<output_file>_-ApplicationResourceUsage.csv
+NetworkConnectivityUsageMonitor | _<output_file>_-NetworkConnectivityUsageMonitor.csv
+NetworkDataUsageMonitor | _<output_file>_-NetworkDataUsageMonitor.csv
 
 
 ### Requirements
 
 > sudo apt-get install python-libesedb
+
+
