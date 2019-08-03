@@ -1,6 +1,6 @@
 # SRUM_parser
 Parse Windows System Resource Usage Monitor (SRUM)  
-SRUM used by Windows Operating System to monitor utilization usage of the resources (Network connections, Application running, energy usage, etc.)
+SRUM used by Windows Operating System to monitor utilization of the resources (Network connections, Application running, energy usage, etc.)
 
 to read more about SRUM, [click here](https://github.com/libyal/esedb-kb/blob/master/documentation/System%20Resource%20Usage%20Monitor%20(SRUM).asciidoc)
 
